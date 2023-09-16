@@ -17,8 +17,17 @@ The following are the key mappings I use the most and these are consistent acros
       * Run... : `ALT-R`
       * Debug... : `ALT-D`
       * Generate Coverate Report... : `ALT-C`
+  * Window
+    * Editor Tabs
+      * Split and Move Right : `CTRL+ALT+SHIFT+RIGHT`
+      * Split and Move Dow  : `CTRL+ALT+SHIFT+DOWN`
+      * Unsplit : `CTRL+ALT+SHIFT+LEFT`
+      * Unsplit All : `CTRL+ALT+SHIFT+UP`
+      * Editor Close Actions
+        * Close Tab : `CTRL-W`
+        * Close All Tabs: `CTRL-SHIFT-W` 
 * Plugins
   * Terminal
-    * Clear Terminal : `CRTL-K`
+    * Clear Terminal : `CTRL-K`
     * Close Tab : `CTRL-W`
-    * Open in Terminal : `CRTL-T`
+    * Open in Terminal : `CTRL-T`
