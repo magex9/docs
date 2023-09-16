@@ -11,6 +11,7 @@ The following are the key mappings I use the most and these are consistent acros
   * Terminal : `ALT-0`
   * Projects : `ALT-1`
   * Run : `ALT-2`
+  * Debug: `ALT-3`
 * Main Menu
   * Run
     * Run/Debug
