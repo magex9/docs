@@ -23,6 +23,8 @@ The following are the key mappings I use the most and these are consistent acros
       * Split and Move Dow  : `CTRL+ALT+SHIFT+DOWN`
       * Unsplit : `CTRL+ALT+SHIFT+LEFT`
       * Unsplit All : `CTRL+ALT+SHIFT+UP`
+      * Goto Next Splitter : `CTRL+SHIFT+RIGHT`
+      * Goto Previous Splitter: `CTRL+SHIFT+LEFT`
       * Editor Close Actions
         * Close Tab : `CTRL-W`
         * Close All Tabs: `CTRL-SHIFT-W` 
