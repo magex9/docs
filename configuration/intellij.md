@@ -1,13 +1,21 @@
 
 ## Key Mappings
 
-| Section | Value |
-| --- | --- |
-| Tool Windows : Terminal | `ALT-0` |
-| Tool Windows : Projects | `ALT-1` |
-| Tool Windows : Run | `ALT-2` |
-| Main Menu : Run : Run/Debug : Run | `CTRL-R` |
-| Main Menu : Run : Run/Debug : Debug | `CTRL-D` |
-| Main Menu : Run : Run/Debug : Coverage | `CTRL-C` |
-| Terminal : Clear Terminal | `CTRL-K` |
-| Terminal : Close Tab | `CTRL-W` |
+### Tool
+
+* Tool Windows
+  * Terminal : `ALT-0`
+  * Projects : `ALT-1`
+  * Run : `ALT-2`
+* Main Menu
+  * Run
+    * Run/Debug
+      * Run... : `CTRL-R`
+      * Debug : `CTRL-D`
+      * Coverage : `CTRL-C`
+* Plugins
+  * Terminal
+    * Clear Terminal : `CTRL-K`
+    * Close Tab : `CTRL-W`
+    * Open in Terminal : `CRTL-T`
+    * Rename Session : `CRTL-S`
