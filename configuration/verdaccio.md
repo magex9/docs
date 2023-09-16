@@ -15,7 +15,7 @@ Create a user in the system
 > This can be anything and should not be real data
 
 ```shell
-npm adduser --registry http://localhost:4873/
+npm adduser --registry http://localhost:4873/ --auth-type=legacy
 ```
 
 Now you can publish and packages that are ready to be distributed.
