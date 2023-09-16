@@ -14,12 +14,11 @@ The following are the key mappings I use the most and these are consistent acros
 * Main Menu
   * Run
     * Run/Debug
-      * Run... : `CTRL-R`
-      * Debug : `CTRL-D`
-      * Coverage : `CTRL-C`
+      * Run... : `ALT-R`
+      * Debug... : `ALT-D`
+      * Generate Coverate Report... : `ALT-C`
 * Plugins
   * Terminal
-    * Clear Terminal : `CTRL-K`
+    * Clear Terminal : `CRTL-K`
     * Close Tab : `CTRL-W`
     * Open in Terminal : `CRTL-T`
-    * Rename Session : `CRTL-S`
