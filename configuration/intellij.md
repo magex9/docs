@@ -1,5 +1,9 @@
 
+Hit `CTRL+ALT+S` to bring up the Settings panel
+
 ## Key Mappings
+
+The following are the key mappings I use the most and these are consistent across computers.
 
 ### Tool
 
