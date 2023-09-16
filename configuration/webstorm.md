@@ -11,6 +11,6 @@ Hit `CTRL+ALT+S` to bring up the Settings panel
 
 ### Punctuation
 
-Use `single` quotes `in new code`
-Trailing comma: `Keep`
+* Use `single` quotes `in new code`
+* Trailing comma: `Keep`
 
