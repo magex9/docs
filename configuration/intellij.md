@@ -27,8 +27,9 @@ The following are the key mappings I use the most and these are consistent acros
       * Goto Next Splitter : `CTRL+SHIFT+RIGHT`
       * Goto Previous Splitter: `CTRL+SHIFT+LEFT`
       * Editor Close Actions
-        * Close Tab : `CTRL-W`
-        * Close All Tabs: `CTRL-SHIFT-W` 
+        * Close Tab : `CTRL+W`
+        * Close Unmodified Tabs: `CTRL+SHIFT+W`
+        * Close All Tabs: `CTRL+ALT+SHIFT+W` 
 * Plugins
   * Terminal
     * Clear Terminal : `CTRL-K`
