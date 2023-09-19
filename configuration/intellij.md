@@ -8,11 +8,11 @@ The following are the key mappings I use the most and these are consistent acros
 ### Tool
 
 * Tool Windows
-  * Terminal : `ALT-0`
   * Projects : `ALT-1`
   * Commits : `ALT-2`
-  * Run : `ALT-3`
-  * Debug: `ALT-4`
+  * Terminal : `ALT-3`
+  * Run : `ALT-4`
+  * Debug: `ALT-5`
 * Main Menu
   * Run
     * Run/Debug
