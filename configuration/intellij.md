@@ -10,8 +10,9 @@ The following are the key mappings I use the most and these are consistent acros
 * Tool Windows
   * Terminal : `ALT-0`
   * Projects : `ALT-1`
-  * Run : `ALT-2`
-  * Debug: `ALT-3`
+  * Commits : `ALT-2`
+  * Run : `ALT-3`
+  * Debug: `ALT-4`
 * Main Menu
   * Run
     * Run/Debug
@@ -24,8 +25,8 @@ The following are the key mappings I use the most and these are consistent acros
       * Split and Move Dow  : `CTRL+ALT+SHIFT+DOWN`
       * Unsplit : `CTRL+ALT+SHIFT+LEFT`
       * Unsplit All : `CTRL+ALT+SHIFT+UP`
-      * Goto Next Splitter : `CTRL+SHIFT+RIGHT`
-      * Goto Previous Splitter: `CTRL+SHIFT+LEFT`
+      * Goto Next Splitter : `CTRL+SHIFT+]`
+      * Goto Previous Splitter: `CTRL+SHIFT+[`
       * Editor Close Actions
         * Close Tab : `CTRL+W`
         * Close Unmodified Tabs: `CTRL+SHIFT+W`
