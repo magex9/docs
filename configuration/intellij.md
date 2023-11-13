@@ -36,3 +36,8 @@ The following are the key mappings I use the most and these are consistent acros
     * Clear Terminal : `CTRL-K`
     * Close Tab : `CTRL-W`
     * Open in Terminal : `CTRL-T`
+* Version Control
+  * Commit
+    * [X] Use non-modal commit interface
+	* [ ] Clear initial commit message
+	* Turn all commit checks off 
